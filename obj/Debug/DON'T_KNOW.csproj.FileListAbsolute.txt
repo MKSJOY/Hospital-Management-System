@@ -1,0 +1,12 @@
+H:\C#\DON'T_KNOW\bin\Debug\DON'T_KNOW.exe.config
+H:\C#\DON'T_KNOW\bin\Debug\DON'T_KNOW.exe
+H:\C#\DON'T_KNOW\bin\Debug\DON'T_KNOW.pdb
+H:\C#\DON'T_KNOW\obj\Debug\DON'T_KNOW.csproj.AssemblyReference.cache
+H:\C#\DON'T_KNOW\obj\Debug\DON'T_KNOW.csproj.SuggestedBindingRedirects.cache
+H:\C#\DON'T_KNOW\obj\Debug\DON_T_KNOW.Form1.resources
+H:\C#\DON'T_KNOW\obj\Debug\DON_T_KNOW.Properties.Resources.resources
+H:\C#\DON'T_KNOW\obj\Debug\DON'T_KNOW.csproj.GenerateResource.cache
+H:\C#\DON'T_KNOW\obj\Debug\DON'T_KNOW.csproj.CoreCompileInputs.cache
+H:\C#\DON'T_KNOW\obj\Debug\DON'T_KNOW.exe
+H:\C#\DON'T_KNOW\obj\Debug\DON'T_KNOW.pdb
+H:\C#\DON'T_KNOW\obj\Debug\DON_T_KNOW.Dashboard.resources
